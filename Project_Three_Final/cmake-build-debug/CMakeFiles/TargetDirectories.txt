@@ -1,0 +1,3 @@
+/home/hasan/CLionProjects/ant/cmake-build-debug/CMakeFiles/ant.dir
+/home/hasan/CLionProjects/ant/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/hasan/CLionProjects/ant/cmake-build-debug/CMakeFiles/rebuild_cache.dir
